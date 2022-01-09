@@ -6,5 +6,4 @@
 * Reduced redundant code in CSS
 * changed structure of CSS to match html 
 
-
-
+![Alt text](relative/images/horiseon-screenshot.jpg?raw=true "Title")

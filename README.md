@@ -10,4 +10,4 @@
 ![Alt text](https://github.com/JHESSLER11/Horiseon-Week-1/blob/main/assets/images/Horiseon-screenshot.png)
 
 ## Link to deployed application
-click [here](https://jhessler11.github.io/Horiseon-Week-1/)
+Click [Here!](https://jhessler11.github.io/Horiseon-Week-1/) to go to my deloped application

@@ -7,3 +7,4 @@
 * changed structure of CSS to match html 
 
 ![Alt text](relative/images/horiseon-screenshot.jpg?raw=true "Title")
+https://github.com/JHESSLER11/Horiseon-Week-1/blob/main/assets/images/Horiseon-screenshot.png

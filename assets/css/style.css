@@ -86,6 +86,8 @@ p {
     background-color: #2589bd;
 }
 
+/* code condensed to reduce redundancy */
+
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
